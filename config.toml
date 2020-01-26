@@ -9,7 +9,7 @@ paginate = 12                                            # default amount of pos
 enableEmoji = true                                       # whether to use emoji code
 enableRobotsTXT = true                                   # whether to use robots.txt
 googleAnalytics = ""                                     # [UA-XXXXXXXX-X] google analytics code
-# disqusShortname = "dillonzq"                             # Disqus shortname to use Disqus in posts
+# disqusShortname = ""                             # Disqus shortname to use Disqus in posts
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
                                                          # copyright description used only for seo schema
 
@@ -60,13 +60,13 @@ staticDir = ["static", "../assets/others"]               # static directories
   [[menu.main]]
     identifier = "zh"
     name = '<i class="fas fa-language fa-fw"></i>'
-    url = "https://hugo-loveit-zh.netlify.com"
+    url = ""
     weight = 5
 
 [params]
   version = "5.x"                                        # LoveIt theme version
-  description = "LoveIt Theme Demo"                      # site description
-  keywords = ["XXXX", "Theme", "Hugo"]                   # site keywords
+  description = "AlgoWithRhythms"                      # site description
+  keywords = ["Algorithm", "Computer Science"]                   # site keywords
 
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
@@ -117,14 +117,16 @@ staticDir = ["static", "../assets/others"]               # static directories
     email = ""
 
   [params.social]                                        # Social Info in home page
-    GitHub = "xxxx"
-    Linkedin = "xxxx"
-    Twitter = "xxxx"
+    GitHub = "kazi-mifta"
+    Linkedin = "kazi-mifta"
+    Stackoverflow = "7240858/kazi-miftahul-hoque"
+    Medium = "@u1504085"
+    Email = "kazimifta13@gmail.com"
+    Goodreads = "96979962-kazi-miftahul"
+    #Twitter = "xxxx"
     #Instagram = "xxxx"
-    #Email = "xxxx"
-    Facebook = "xxxx"
-    Telegram = "xxxx"
-    #Medium = "xxxx"
+    #Facebook = "xxxx"
+    #Telegram = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
     #Youtubecustom = "xxxx"
@@ -136,7 +138,6 @@ staticDir = ["static", "../assets/others"]               # static directories
     #Reddit = "xxxx"
     #Codepen = "xxxx"
     #Bitbucket = "xxxx"
-    #Stackoverflow = "xxxx"
     #Weibo = "xxxx"
     #Odnoklassniki = "xxxx"
     #VKontakte = "xxxx"
@@ -149,7 +150,6 @@ staticDir = ["static", "../assets/others"]               # static directories
     #Paypal = "xxxx"
     #Fivehundredpx = "xxxx"
     #Mix = "xxxx"
-    #Goodreads = "xxxx"
     #Lastfm = "xxxx"
     #Foursquare = "xxxx"
     #Hackernews = "xxxx"
