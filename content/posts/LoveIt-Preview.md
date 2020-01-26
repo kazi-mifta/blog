@@ -11,8 +11,8 @@ license: ''
 tags: ['other']
 categories: ['Self']
 
-featured_image: ''
-featured_image_preview: ''
+featured_image: '/introduce/hi.png'
+featured_image_preview: '/introduce/hi.png'
 
 comment: true
 toc: true
