@@ -1,15 +1,15 @@
 ---
-title: "LoveIt Theme Preview and Documentation"
-date: 2019-08-25T16:22:42+08:00
-lastmod: 2019-08-25T16:22:42+08:00
+title: "Hi"
+date: 2020-01-25T16:22:42+08:00
+lastmod: 2020-01-25T16:22:42+08:00
 draft: false
-description: "This is a LoveIt theme preview and documentation page."
+description: "Indroducing The Blog"
 show_in_homepage: true
 show_description: false
 license: ''
 
-tags: ['Hugo', 'Theme']
-categories: ['Documentation']
+tags: ['other']
+categories: ['Self']
 
 featured_image: ''
 featured_image_preview: ''
@@ -20,6 +20,6 @@ autoCollapseToc: true
 math: true
 ---
 
-This is a [LoveIt](https://github.com/dillonzq/LoveIt) theme preview and documentation page.
+I started this blog to share the things I am learning everyday. I think I can meet a lot of interesting people through my writing.
 
 <!--more-->
