@@ -12,7 +12,7 @@ math = true
 show_description = true
 show_in_homepage = true
 tags = ["CG", "Algorhythm"]
-title = "Drawing a Line With David Bresenham"
+title = "Drawing a Line With Jack Bresenham"
 toc = false
 
 +++
