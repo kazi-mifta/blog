@@ -46,3 +46,4 @@ fields:
   label: math
 pages:
 - content/posts/Computer Graphics/drawing-a-line-with-david-bresenham.md
+- content/posts/recursion-and-sierpinski.md
