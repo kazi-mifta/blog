@@ -5,15 +5,13 @@ description: The purpose of this blog
 show_in_homepage: true
 show_description: true
 license: ''
-tags:
-- introduce
-categories:
-- Self
+tags: []
+categories: []
 featured_image: "/introduce/hi.jpg"
 featured_image_preview: "/introduce/hi.jpg"
 comment: true
 toc: false
-autoCollapseToc: true
+autoCollapseToc: false
 math: false
 
 ---
