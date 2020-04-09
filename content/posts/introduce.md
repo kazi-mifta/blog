@@ -15,11 +15,15 @@ autoCollapseToc: false
 math: false
 
 ---
+<br/>
+
 I started this blog to share my learnings with others.
 
-I struggled a lot when learning new concepts. I open-up dozens of resources and look through each one. But whenever I get to understand it completely, I can’t stop myself to share it. I start to have ideas on how to express it in different ways. This blog will help me to serve that purpose. 
+I struggle a lot when I learn new concepts. I open-up dozens of resources and look through each one. But whenever I get to understand it completely, I can’t stop myself to share it. I start to have ideas on how to express it in different ways. This blog will help me to serve that purpose and also to connect with like minded people.
 
 I am a student from Bangladesh. I study Computer Science here. So, the majority of the posts will revolve around it.
+
+<br/>
 
 I am always open to learn new things and develop myself. I will be glad to receive tons of suggestions.
 
