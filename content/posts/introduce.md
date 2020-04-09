@@ -1,6 +1,6 @@
 ---
 title: Hi
-date: 2020-04-09T16:30:56+00:00
+date: 2020-04-09T16:30:56.000+00:00
 description: The purpose of this blog
 show_in_homepage: true
 show_description: true
@@ -19,7 +19,7 @@ math: false
 
 I started this blog to share my learnings with others.
 
-I struggle a lot when I learn new concepts. I open-up dozens of resources and look through each one. But whenever I get to understand it completely, I can’t stop myself to share it. I start to have ideas on how to express it in different ways. This blog will help me to serve that purpose and also to connect with like minded people.
+I struggle a lot when I learn new concepts. I dig-up a dozen of resources and look through each one. But whenever I get to understand it completely, I can’t stop myself to share it. I start to have ideas on how to express it in different ways. This blog will help me to serve that purpose and also to connect with like minded people.
 
 <br>
 
