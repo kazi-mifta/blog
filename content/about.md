@@ -8,8 +8,10 @@ Hi, I am Kazi. I am from this beautiful [Country.](https://www.lonelyplanet.com/
 I am an iOS developer and I like to study Algorithms. Beside that I am a huge fan of football.
 
 > In algorithms, as in life, persistence usually pays off.
+>
+>                                                                     - Steven S. Skiena
 
-I am Studying persistently at the last bench 😉
+I am Studying persistently at the last bench........
 
 ![](/uploads/last_bench.png)
 
