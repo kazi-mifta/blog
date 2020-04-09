@@ -117,12 +117,12 @@ staticDir = ["static", "../assets/others"]               # static directories
     email = ""
 
   [params.social]                                        # Social Info in home page
-    GitHub = "kazi-mifta"
-    Linkedin = "kazi-mifta"
-    Stackoverflow = "7240858/kazi-miftahul-hoque"
+    #GitHub = "kazi-mifta"
+    #Linkedin = "kazi-mifta"
+    #Stackoverflow = "7240858/kazi-miftahul-hoque"
     Medium = "@u1504085"
-    Email = "kazimifta13@gmail.com"
-    Goodreads = "96979962-kazi-miftahul"
+    Email = "u1504085@student.cuet.ac.bd"
+    #Goodreads = "96979962-kazi-miftahul"
     #Twitter = "xxxx"
     #Instagram = "xxxx"
     #Facebook = "xxxx"
@@ -182,7 +182,7 @@ staticDir = ["static", "../assets/others"]               # static directories
     Reddit = true
     #Linkedin = true
     #Pinterest = true
-    #HackerNews = true
+    HackerNews = true
     #Mix = true
     #Tumblr = true
     #VKontakte = true
