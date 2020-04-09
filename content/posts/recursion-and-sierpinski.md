@@ -34,7 +34,7 @@ Recursion এর ব্যবহার কিন্তু আরও বহু �
 
 Graphics Lab এ দেখান হচ্ছিল Sierpinski Triangle । আর এই ত্রিভুজ তৈরির কাজটি খুব সুন্দর ভাবে recursion করে দিচ্ছিল ।
 
-    # define GL_SILENCE_DEPRECATION
+    #define GL_SILENCE_DEPRECATION
     #ifdef __APPLE_CC__
     #include <GLUT/glut.h>
     #else
@@ -42,15 +42,6 @@ Graphics Lab এ দেখান হচ্ছিল Sierpinski Triangle । আ�
     #endif
     
     void display() {
-    
-      glClear(GL_COLOR_BUFFER_BIT);
-    
-      glBegin(GL_POLYGON);
-        glColor3f(1, 0, 0); glVertex3f(-0.6, -0.75, 0.5);
-        glColor3f(0, 1, 0); glVertex3f(0.6, -0.75, 0);
-        glColor3f(0, 0, 1); glVertex3f(0, 0.75, 0);
-      glEnd();
-    
       glFlush();
     }
     
